@@ -24,3 +24,9 @@ The following type of variables are available:
 
 
 The wide format is simply the same information (without Cases_proportional), but in a wide format.
+
+# Data source
+
+Data source is [wikipedia](https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_%C3%96sterreich). There, the different number of data sources (Sozialministerium and Gesundheitsministerium) are merged. 
+The data is scraped from wikipedia with the function scrape_wikipedia_at() in the R-package [Covid-Austria](https://github.com/joph/Covid19-Austria).
+It is updated once a day at around 16:00.
