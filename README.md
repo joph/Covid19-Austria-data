@@ -2,7 +2,10 @@
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
+
 # Austrian Covid-19 Data
+
+14.4.2020: This data set is no longer updated, as the Austrian government is releasing Covid-19 data now on its open data portal: [Open Data Portal - Covid-19 data](https://www.data.gv.at/katalog/dataset/4a9d9ef1-3790-44e2-8316-397c5e862813)
 
 This is a collection of data on Austrian Covid-19 cases. The database contains the following information in the long format:
 
